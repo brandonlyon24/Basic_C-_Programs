@@ -35,17 +35,20 @@ namespace MathAndComparisonOperations
             //Console.WriteLine(remainder);
             //Console.ReadLine();
 
-            bool trueOrFalse = 12 > 5;
-            Console.WriteLine(trueOrFalse.ToString());
-            Console.ReadLine();
+            //bool trueOrFalse = 12 > 5;
+            //Console.WriteLine(trueOrFalse.ToString());
+            //Console.ReadLine();
 
 
 
             int roomTemerature = 70;
-            int currentTemperature = 72;
+            int currentTemperature = 70;
 
-            bool isWarm = currentTemperature > roomTemerature;
+            //bool isWarm = currentTemperature >= roomTemerature;
+            bool isWarm = currentTemperature != roomTemerature;
+
             Console.WriteLine(isWarm);
+            Console.ReadLine();
 
 
         }

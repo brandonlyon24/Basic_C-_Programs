@@ -1,0 +1,7 @@
+C:\Users\lyonb\Desktop\Basic_C#_Programs\Zombie Shooter\Zombie Shooter\obj\Debug\netcoreapp3.1\Zombie Shooter.csprojAssemblyReference.cache
+C:\Users\lyonb\Desktop\Basic_C#_Programs\Zombie Shooter\Zombie Shooter\obj\Debug\netcoreapp3.1\Zombie_Shooter.Form1.resources
+C:\Users\lyonb\Desktop\Basic_C#_Programs\Zombie Shooter\Zombie Shooter\obj\Debug\netcoreapp3.1\Zombie_Shooter.Properties.Resources.resources
+C:\Users\lyonb\Desktop\Basic_C#_Programs\Zombie Shooter\Zombie Shooter\obj\Debug\netcoreapp3.1\Zombie Shooter.csproj.GenerateResource.cache
+C:\Users\lyonb\Desktop\Basic_C#_Programs\Zombie Shooter\Zombie Shooter\obj\Debug\netcoreapp3.1\Zombie Shooter.AssemblyInfoInputs.cache
+C:\Users\lyonb\Desktop\Basic_C#_Programs\Zombie Shooter\Zombie Shooter\obj\Debug\netcoreapp3.1\Zombie Shooter.AssemblyInfo.cs
+C:\Users\lyonb\Desktop\Basic_C#_Programs\Zombie Shooter\Zombie Shooter\obj\Debug\netcoreapp3.1\Zombie Shooter.csproj.CoreCompileInputs.cache

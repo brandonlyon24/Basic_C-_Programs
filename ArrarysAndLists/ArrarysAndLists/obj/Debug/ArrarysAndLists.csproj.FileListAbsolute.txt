@@ -1,0 +1,7 @@
+C:\Users\lyonb\Desktop\Basic_C#_Programs\ArrarysAndLists\ArrarysAndLists\bin\Debug\ArrarysAndLists.exe.config
+C:\Users\lyonb\Desktop\Basic_C#_Programs\ArrarysAndLists\ArrarysAndLists\bin\Debug\ArrarysAndLists.exe
+C:\Users\lyonb\Desktop\Basic_C#_Programs\ArrarysAndLists\ArrarysAndLists\bin\Debug\ArrarysAndLists.pdb
+C:\Users\lyonb\Desktop\Basic_C#_Programs\ArrarysAndLists\ArrarysAndLists\obj\Debug\ArrarysAndLists.csprojAssemblyReference.cache
+C:\Users\lyonb\Desktop\Basic_C#_Programs\ArrarysAndLists\ArrarysAndLists\obj\Debug\ArrarysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\lyonb\Desktop\Basic_C#_Programs\ArrarysAndLists\ArrarysAndLists\obj\Debug\ArrarysAndLists.exe
+C:\Users\lyonb\Desktop\Basic_C#_Programs\ArrarysAndLists\ArrarysAndLists\obj\Debug\ArrarysAndLists.pdb
